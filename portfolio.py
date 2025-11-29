@@ -15,12 +15,6 @@ PORTFOLIO = {
             "title": "Education",
             "items": [
                 {
-                    "title": "MS in Data Science — Information Technology University",
-                    "subtitle": "Aug 2024 – Present",
-                    "description": "Coursework: Machine Learning, Deep Learning, Reinforcement Learning, Big Data, Statistics.",
-                    "badge": "MS Data Science",
-                },
-                {
                     "title": "BS in Mathematics — University of Central Punjab",
                     "subtitle": "Oct 2019 – June 2023",
                     "description": "CGPA: 3.66. Coursework includes Linear Algebra, Differential Equations, Calculus.",
